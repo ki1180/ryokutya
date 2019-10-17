@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0677df11fb8360428c6d7b8b3d6e555
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {instanceID: 0}
+  - textGameOver: {instanceID: 0}
+  - textClear: {instanceID: 0}
+  - overSound: {instanceID: 0}
+  - killSound: {instanceID: 0}
+  - clearSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
